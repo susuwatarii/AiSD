@@ -1,1 +1,7 @@
 Домашнее задание из файла 2024sem12-sd.docx
+
+Реализация следующих классов:
+class DoublyLinkedList
+class LinkedList
+class Stack
+class MyQueue
