@@ -1,4 +1,4 @@
-из файла 2024sem-sd.docx
+из файла 2024sem13-sd.docx
 
 generators
 classes Pump, DynArray,  ... action
