@@ -1,0 +1,10 @@
+38 39 40
+
+quick sort
+insertion_sort
+bubble_sort
+  sort list by key
+  
+binary tree
+  
+heap usage 
